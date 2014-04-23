@@ -6,28 +6,30 @@ categories: tutorial
 ---
 
 
-Slides
-======
+# Slides
 
-Who use it?
------------
+## Who use it?
+
 - [Tekkub's Emporium of Random Crap](http://www.tekkub.net/)
 - [Demo.1](http://template.zhanxin.info/iLotus/index.html)
 
 
-Getting started
----------------
+## Getting started
 
 ### The simplest way.
+
 1. Create a github account
 2. Create a html page
 3. DONE!
 
-> 1. 太简陋了
-> 2. 用HTML写文章太繁琐了
+Comments:
+
+1. 太简陋
+2. 用HTML写文章太繁琐
 
 
 ### Use Jekyll
+
 1. Themes
    + [Jekyll Themes](http://jekyllthemes.org/)
    + [掌心 Themes](http://www.zhanxin.info/themes.html)
@@ -45,8 +47,7 @@ Getting started
   images, zip, ....
 
   
-Commands
---------
+## Commands
 
 ``` bash
     # Install Ruby
