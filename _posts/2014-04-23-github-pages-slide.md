@@ -11,8 +11,8 @@ Slides
 
 Who use it?
 -----------
- [Tekkub's Emporium of Random Crap](http://www.tekkub.net/)
- [Demo.1](http://template.zhanxin.info/iLotus/index.html)
+- [Tekkub's Emporium of Random Crap](http://www.tekkub.net/)
+- [Demo.1](http://template.zhanxin.info/iLotus/index.html)
 
 
 Getting started
@@ -25,6 +25,7 @@ Getting started
 
 > 1. 太简陋了
 > 2. 用HTML写文章太繁琐了
+
 
 ### Use Jekyll
 1. Themes
