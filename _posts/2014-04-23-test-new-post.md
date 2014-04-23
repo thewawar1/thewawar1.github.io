@@ -7,7 +7,7 @@ categories: test
 
 下载: [redis-2.8.8.tar.gz](/res/redis-2.8.8.tar.gz)
 
-![图片测试](/res/选取_015.png)
+![图片测试](/res/015.png)
 
 一些Python代码
 
