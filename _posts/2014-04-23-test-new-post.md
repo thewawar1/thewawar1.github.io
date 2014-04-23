@@ -5,6 +5,10 @@ date: 2014-04-23 13:20
 categories: test
 ---
 
+下载: [redis-2.8.8.tar.gz](/res/redis-2.8.8.tar.gz)
+
+![图片测试](/res/选取_015.png)
+
 一些Python代码
 
 {% highlight python %}
@@ -75,3 +79,5 @@ class VideoSpider(CrawlSpider):
                 print 'End Section.'
 
 {% endhighlight %}
+
+
