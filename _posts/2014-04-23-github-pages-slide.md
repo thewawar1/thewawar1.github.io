@@ -1,5 +1,7 @@
 ---
+layout: post
 title: "GitHub pages slides"
+date: 2014-04-23 14:57
 categories: tutorial
 ---
 
