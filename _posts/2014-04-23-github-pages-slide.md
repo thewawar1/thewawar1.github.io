@@ -6,29 +6,29 @@ categories: tutorial
 ---
 
 
-# Slides
-
-## Who use it?
-
-- [Tekkub's Emporium of Random Crap](http://www.tekkub.net/)
-- [Demo.1](http://template.zhanxin.info/iLotus/index.html)
+# Blog systems
+1. wordpress
 
 
-## Getting started
+# What's github pages?
+- GitHub Pages are public webpages freely hosted and easily published through our site.
+- You can create and publish them online using the Automatic Page Generator.
+- If you prefer to work locally, you can use the GitHub for Mac and Windows apps, or the command line. 
 
-### The simplest way.
+# 2 Steps
+1. Write a post save as text file (markdown/html)
+2. Push the post file to Github repository
+
+
+# Getting started
+
+## Setup
 
 1. Create a github account
-2. Create a html page
-3. DONE!
-
-Comments:
-
-1. 太简陋
-2. 用HTML写文章太繁琐
+2. Create a repository: username.github.io
 
 
-### Use Jekyll
+## Use Jekyll
 
 1. Themes
    + [Jekyll Themes](http://jekyllthemes.org/)
@@ -41,13 +41,17 @@ Comments:
    + [Markdown 语法中文版][markdown-syntax-cn]
    
 > Markdown 是一种轻量级标记语言，创始人为约翰·格鲁伯（John Gruber）和 已故天才黑客亚伦·斯沃茨（Aaron Swartz）。
-> 它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的 XHTML(或者HTML)文档, 这种语言吸收了很多在电子邮件中已有的纯文本标记的特。
+> 它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效XHTML(或者HTML)文档, 这种语言吸收了很多在电子邮件中已有的纯文本标记的特。
 
-### Put other things on it.
-  images, zip, ....
+5. Sample
+ - [thewawar1.github.io](http://thewawar1.github.io)
+ - [阳志平的网志](http://www.yangzhiping.com/)
+
+## Put other things on it.
+   images, zip, ....
 
   
-## Commands
+# Commands
 
 ``` bash
     # Install Ruby
