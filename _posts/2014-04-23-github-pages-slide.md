@@ -74,6 +74,12 @@ categories: tutorial
 
 ```
 
+# Summary
+1. Markdown 可以提升写作体验，特别是对程序员来说。
+2. 
+
+
 [markdown-syntax]: https://daringfireball.net/projects/markdown/syntax "Markdown Syntax"
 [markdown-syntax-cn]: http://wowubuntu.com/markdown/ "Markdown语法中文版"
+[markdown-editor]: https://www.zybuluo.com/ "非常漂亮的Markdown编辑器"
 [jekyll-doc]: http://jekyllrb.com/docs/quickstart/ "Jekyll documentation"
